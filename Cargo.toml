@@ -1,7 +1,10 @@
 [package]
-name = "ollama_bash"
+name = "ollama-bash-command-error"
 version = "0.1.0"
 edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Make a call to Ollama when you mis-spell a bash command"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
